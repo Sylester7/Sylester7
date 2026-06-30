@@ -1,167 +1,84 @@
-# 🖥️ STARK INDUSTRIES - SECURE TERMINAL PORTAL v3000
+# 🖥️ SYLESTER7 - SYSTEM DEVELOPMENT TERMINAL
 
 <div align="center">
   <!-- PIXEL ART BANNER -->
-  <img src="pixel_hud_banner.png" alt="Stark Industries HUD Banner" width="100%" />
+  <img src="pixel_hud_banner.png" alt="Sylester7 HUD Banner" width="100%" />
 
   <br/>
   
-  <!-- RETRO GLITCH BADGES -->
-  <img src="https://img.shields.io/badge/JARVIS-ONLINE-00ffcc?style=for-the-badge&logo=cpu&logoColor=00ffcc&labelColor=11151c" alt="Jarvis Online" />
-  <img src="https://img.shields.io/badge/ARC_REACTOR-100%25-ff3366?style=for-the-badge&logo=data:image/png;base64,...&labelColor=11151c" alt="Arc Reactor Power" />
-  <img src="https://img.shields.io/badge/THREAT_LEVEL-MINIMAL-ffcc00?style=for-the-badge&logo=shield&logoColor=ffcc00&labelColor=11151c" alt="Threat Level" />
+  <!-- RETRO METRIC BADGES -->
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ffcc?style=for-the-badge&logo=cpu&logoColor=00ffcc&labelColor=11151c" alt="System Status" />
+  <img src="https://img.shields.io/badge/CORE_FOCUS-EMBEDDED_&_AI-ff3366?style=for-the-badge&logo=microarchitecture&logoColor=ff3366&labelColor=11151c" alt="Focus" />
   
   <br/>
-
-  <h3>🤖 "I am Iron Man." — Welcome to my digital command center.</h3>
-  
-  <p><i>Deploying developer modules... Running protocols... Access Granted.</i></p>
+  <br/>
 </div>
 
 <hr/>
 
-## 📊 SYSTEM DIAGNOSTICS & TELEMETRY
+## 📊 CORE TELEMETRY & DIAGNOSTICS
 
 ```json
 {
-  "status": "ONLINE",
-  "system_core": "Stark OS v90.4",
-  "current_mission": "Building scalable software architectures & training neural networks",
-  "arc_reactor_stability": "100%",
-  "location": "Remote"
+  "user": "Sylester7",
+  "system_focus": [
+    "Embedded Systems",
+    "Computer Vision & Robotics",
+    "Digital Signal Processing",
+    "Machine Learning & Data Science"
+  ],
+  "status": "COMPILATION_ACTIVE",
+  "development_environment": "Windows / Linux / FPGA / Raspberry Pi"
 }
 ```
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📟 JARVIS Diagnostics</h3>
-      <ul>
-        <li><strong>⚡ Operational Status:</strong> Active & compilation ready</li>
-        <li><strong>🧬 Primary Directives:</strong> Machine learning, full-stack design, automation</li>
-        <li><strong>🔥 Core Focus:</strong> Optimizing execution times, reducing latency, and pixel-perfect UIs</li>
-        <li><strong>🔌 Connectivity:</strong> Git / SSH Protocol V2</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <img src="arc_reactor_icon.png" alt="Arc Reactor" width="140px" />
-      <br/>
-      <sub><b>Arc Reactor Core Status:</b> Active</sub>
-    </td>
-  </tr>
-</table>
-
 <hr/>
 
-## 🛠️ SUIT MODULES (TECH STACK)
+## 🛠️ DEVELOPMENT SUBSYSTEMS (TECH STACK)
 
-My tech stack is organized by the subsystems of the **Mark LXXXV Armor**:
-
-### 🧠 Tactical HUD (Frontend & Design)
-> *High-fidelity visual feedback, real-time data stream interfaces, and intuitive interactive controls.*
+### 🔌 Embedded Systems & Hardware Engineering
+> *Logic synthesis, autonomous navigation, and physical sensor/actuator integration.*
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: invert(1);"/>
-  </a>
-  &nbsp;
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Verilog-💡-00ffcc?style=flat-square&labelColor=11151c" alt="Verilog" />
+  <img src="https://img.shields.io/badge/C++-🤖-00ffcc?style=flat-square&labelColor=11151c" alt="C++" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-🍓-00ffcc?style=flat-square&labelColor=11151c" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/MATLAB-📊-00ffcc?style=flat-square&labelColor=11151c" alt="MATLAB" />
 </p>
 
-### ⚡ Arc Reactor (Backend, API & Systems Logic)
-> *The core engine powering calculations, data pipelines, business logic, and server operations.*
+### 🧠 Computer Vision, AI & Signal Processing
+> *Real-time object tracking, machine learning models, and audio digital filtering.*
 
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="filter: invert(1);"/>
-  </a>
-  &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Python-🐍-ff3366?style=flat-square&labelColor=11151c" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-👁️-ff3366?style=flat-square&labelColor=11151c" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-📓-ff3366?style=flat-square&labelColor=11151c" alt="Jupyter Notebooks" />
 </p>
 
-### 💾 Cybernetic Memory Banks (Databases & Cache)
-> *Highly indexed, fault-tolerant repositories storing diagnostic histories, target data, and logs.*
+### 🌐 Software & Scripting
+> *System integration, shell tooling, and web interfaces.*
 
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
-
-### 🛡️ Flight Thrusters & Shields (DevOps, Cloud & Tools)
-> *Autonomous deployment vectors, secure shell protection, and environment isolated processes.*
-
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  &nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-💛-ffcc00?style=flat-square&labelColor=11151c" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Git-📂-ffcc00?style=flat-square&labelColor=11151c" alt="Git" />
 </p>
 
 <hr/>
 
-## 🎯 MISSION ARCHIVES (FEATURED PROJECTS)
+## 🎯 ACTIVE PROJECTS (ARCHIVES)
 
-| Project / Repository | Description | Status | Mark Level |
-| :--- | :--- | :---: | :---: |
-| [📂 project-neural-hud](https://github.com/Sylester7/project-neural-hud) | Pixel-art HUD generator for custom computer displays. | `COMPLETED` | Mk. 85 |
-| [📂 arc-power-api](https://github.com/Sylester7/arc-power-api) | Distributed backend telemetry API for smart grids. | `ACTIVE` | Mk. 42 |
-| [📂 jarvis-voice-assistant](https://github.com/Sylester7/jarvis-voice-assistant) | Lightweight desktop utility script mapping hotkeys to LLM models. | `OPTIMIZING` | Mk. 5 |
+| Project / Repository | Description | Primary Technology |
+| :--- | :--- | :---: |
+| [📂 Plant Disease Detection](https://github.com/Sylester7/Plant_Disease_Detection) | Machine learning models trained to classify and detect plant leaf diseases. | `Python / Jupyter` |
+| [📂 Gesture Controlled Media Player](https://github.com/Sylester7/Gesture-Controlled-Media-Player-Python-Raspberry-Pi-) | OpenCV-based computer vision application deployed on Raspberry Pi to map gestures to player actions. | `Python / OpenCV` |
+| [📂 Maze Solving Robot](https://github.com/Sylester7/Maze-Solving-Robot) | Autonomous logic algorithms and sensor polling for maze navigation. | `C++` |
+| [📂 2D GPU on PYNQ](https://github.com/Sylester7/2d-gpu-pynq) | Hardware description and implementation of a 2D GPU processing unit on PYNQ board. | `Verilog` |
+| [📂 Noise Cancellation in MATLAB](https://github.com/Sylester7/Noise-Cancellation-in-MATLAB) | Digital filters designed to suppress ambient noise from raw audio inputs. | `MATLAB` |
+| [📂 ScamShield Recovery Center](https://github.com/Sylester7/ScamShield-Recovery-Center) | JavaScript interface for scam identification and reporting tools. | `JavaScript` |
 
 <hr/>
 
-## 📈 TELEMETRY ANALYTICS (GITHUB STATS)
+## 📈 SYSTEM PERFORMANCE METRICS
 
 <div align="center">
   <a href="https://github.com/Sylester7">
@@ -181,18 +98,11 @@ My tech stack is organized by the subsystems of the **Mark LXXXV Armor**:
 
 <hr/>
 
-## 📟 COMMUNICATION CHANNELS
+## 📟 INTERFACE STATIONS
 
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  📡 LINKEDIN:  linkedin.com/in/Sylester7                │
-│  📧 EMAIL:     your.email@starkindustries.com           │
-│  🌐 PORTFOLIO: starkindustries.com/tony-stark            │
+│  📂 GITHUB:    github.com/Sylester7                     │
 └─────────────────────────────────────────────────────────┘
 ```
-
----
-
-<div align="center">
-  <sub>JARVIS Protocols v3.8.5. Designed with 💖 and 8-bit tech.</sub>
-</div>
